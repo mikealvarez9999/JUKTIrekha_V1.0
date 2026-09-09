@@ -1,6 +1,6 @@
 # JUKTIrekha V1.0
 
-A line following robot built by members of **JUKTI — Club of CSE, Independent University, Bangladesh**.
+A line following robot built by members of **JUKTI — Club of CSE, IUB**.
 
 JUKTIrekha runs a PID line-following controller on an Arduino Nano with a five-channel digital IR array. Everything is tunable at runtime over a serial console — no recompiling to change a gain — and settings persist in EEPROM across power cycles.
 
